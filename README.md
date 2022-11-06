@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanidaMethsilu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Pythen
+- 🌱 I’m currently learning Python and Java🙂
 
 <!---
 RanidaMethsilu/RanidaMethsilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
